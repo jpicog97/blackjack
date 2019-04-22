@@ -1,5 +1,6 @@
 // Dealer.cpp
-// Implementación de la clase Dealer
+// ImplementaciÃ³n de la clase Dealer
+// Holi
 
 #include "dealer.h"
 
